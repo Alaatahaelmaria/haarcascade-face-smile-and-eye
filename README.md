@@ -26,3 +26,7 @@ Haar cascade works as a classifier. It classifies positive data points → that 
 # Haar cascades are XML files that can be used in OpenCV to detect specified objects.
 
 download data from here:https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+# install Libraries :
+pip install opencv
+pip install numpy
