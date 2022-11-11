@@ -29,4 +29,6 @@ download data from here:https://github.com/opencv/opencv/tree/master/data/haarca
 
 # install Libraries :
 pip install opencv
+
+
 pip install numpy
